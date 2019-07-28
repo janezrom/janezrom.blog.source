@@ -1,0 +1,8 @@
+.git
+.stack-work
+_cache
+_site
+site
+site.hi
+site.o
+stack.yaml.lock
